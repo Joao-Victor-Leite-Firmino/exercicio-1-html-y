@@ -1,0 +1,27 @@
+p {
+    background-color: blue;
+    color: blanchedalmond;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+
+a {
+    color: black;
+}
+
+.titulo2 {
+    color: brown;
+}
+
+#idNome {
+    color: pink;
+}
+
+input {
+    color: lightsalmon;
+}
